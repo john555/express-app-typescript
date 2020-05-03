@@ -8,7 +8,7 @@
 
 ```
 git clone https://github.com/john555/express-app-typescript.git
-cd express-app-typescrip
+cd express-app-typescript
 yarn install
 yarn start:dev
 ```
